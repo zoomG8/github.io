@@ -1,2 +1,2 @@
 # github.io
-zoom's blog
+This is ZoomKuok!
